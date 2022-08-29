@@ -1,3 +1,3 @@
 # analiseDadosPython
 
-<img src="imagem.jpg" alt="Minha Figura">
+<img src="casoDeUso.pngjpg" alt="Minha Figura">
